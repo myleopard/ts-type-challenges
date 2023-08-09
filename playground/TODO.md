@@ -1,0 +1,179 @@
+Challenges still uncompleted
+============================
+
+## &#9745; warm-up (1)
+
+- &#9745; 13・Hello World
+
+## &#9744; easy (13)
+
+- &#9745; 4・Pick
+- &#9745; 7・Readonly
+- &#9745; 11・Tuple to Object
+- &#9745; 14・First of Array
+- &#9745; 18・Length of Tuple
+- &#9745; 43・Exclude
+- &#9745; 189・Awaited
+- &#9745; 268・If
+- &#9745; 533・Concat
+- &#9744; 898・Includes
+- &#9745; 3057・Push
+- &#9745; 3060・Unshift
+- &#9744; 3312・Parameters
+
+## &#9744; medium (88)
+
+- &#9745; 2・Get Return Type
+- &#9745; 3・Omit
+- &#9744; 8・Readonly 2
+- &#9744; 9・Deep Readonly
+- &#9744; 10・Tuple to Union
+- &#9744; 12・Chainable Options
+- &#9744; 15・Last of Array
+- &#9744; 16・Pop
+- &#9744; 20・Promise.all
+- &#9744; 62・Type Lookup
+- &#9744; 106・Trim Left
+- &#9744; 108・Trim
+- &#9744; 110・Capitalize
+- &#9744; 116・Replace
+- &#9744; 119・ReplaceAll
+- &#9744; 191・Append Argument
+- &#9744; 296・Permutation
+- &#9744; 298・Length of String
+- &#9744; 459・Flatten
+- &#9744; 527・Append to object
+- &#9744; 529・Absolute
+- &#9744; 531・String to Union
+- &#9744; 599・Merge
+- &#9744; 612・KebabCase
+- &#9744; 645・Diff
+- &#9744; 949・AnyOf
+- &#9744; 1042・IsNever
+- &#9744; 1097・IsUnion
+- &#9744; 1130・ReplaceKeys
+- &#9744; 1367・Remove Index Signature
+- &#9744; 1978・Percentage Parser
+- &#9744; 2070・Drop Char
+- &#9744; 2257・MinusOne
+- &#9744; 2595・PickByType
+- &#9744; 2688・StartsWith
+- &#9744; 2693・EndsWith
+- &#9744; 2757・PartialByKeys
+- &#9744; 2759・RequiredByKeys
+- &#9744; 2793・Mutable
+- &#9744; 2852・OmitByType
+- &#9744; 2946・ObjectEntries
+- &#9744; 3062・Shift
+- &#9744; 3188・Tuple to Nested Object
+- &#9744; 3192・Reverse
+- &#9744; 3196・Flip Arguments
+- &#9744; 3243・FlattenDepth
+- &#9744; 3326・BEM style string
+- &#9744; 3376・InorderTraversal
+- &#9744; 4179・Flip
+- &#9744; 4182・Fibonacci Sequence
+- &#9744; 4260・AllCombinations
+- &#9744; 4425・Greater Than
+- &#9744; 4471・Zip
+- &#9744; 4484・IsTuple
+- &#9744; 4499・Chunk
+- &#9744; 4518・Fill
+- &#9744; 4803・Trim Right
+- &#9744; 5117・Without
+- &#9744; 5140・Trunc
+- &#9744; 5153・IndexOf
+- &#9744; 5310・Join
+- &#9744; 5317・LastIndexOf
+- &#9744; 5360・Unique
+- &#9744; 5821・MapTypes
+- &#9744; 7544・Construct Tuple
+- &#9744; 8640・Number Range
+- &#9744; 8767・Combination
+- &#9744; 8987・Subsequence
+- &#9744; 9142・CheckRepeatedChars
+- &#9744; 9286・FirstUniqueCharIndex
+- &#9744; 9896・GetMiddleElement
+- &#9744; 9898・Appear only once
+- &#9744; 9989・Count Element Number To Object
+- &#9744; 10969・Integer
+- &#9744; 16259・ToPrimitive
+- &#9744; 17973・DeepMutable
+- &#9744; 18142・All
+- &#9744; 18220・Filter
+- &#9744; 21106・Combination key type
+- &#9744; 25170・Replace First
+- &#9744; 25270・Transpose
+- &#9744; 26401・JSON Schema to TypeScript
+- &#9744; 27133・Square
+- &#9744; 27152・Triangular number
+- &#9744; 27862・CartesianProduct
+- &#9744; 27932・MergeAll
+- &#9744; 27958・CheckRepeatedTuple
+- &#9744; 28333・Public Type
+
+## &#9744; hard (46)
+
+- &#9744; 6・Simple Vue
+- &#9744; 17・Currying 1
+- &#9744; 55・Union to Intersection
+- &#9744; 57・Get Required
+- &#9744; 59・Get Optional
+- &#9744; 89・Required Keys
+- &#9744; 90・Optional Keys
+- &#9744; 112・Capitalize Words
+- &#9744; 114・CamelCase
+- &#9744; 147・C-printf Parser
+- &#9744; 213・Vue Basic Props
+- &#9744; 223・IsAny
+- &#9744; 270・Typed Get
+- &#9744; 300・String to Number
+- &#9744; 399・Tuple Filter
+- &#9744; 472・Tuple to Enum Object
+- &#9744; 545・printf
+- &#9744; 553・Deep object to unique
+- &#9744; 651・Length of String 2
+- &#9744; 730・Union to Tuple
+- &#9744; 847・String Join
+- &#9744; 956・DeepPick
+- &#9744; 1290・Pinia
+- &#9744; 1383・Camelize
+- &#9744; 2059・Drop String
+- &#9744; 2822・Split
+- &#9744; 2828・ClassPublicKeys
+- &#9744; 2857・IsRequiredKey
+- &#9744; 2949・ObjectFromEntries
+- &#9744; 4037・IsPalindrome
+- &#9744; 5181・Mutable Keys
+- &#9744; 5423・Intersection
+- &#9744; 6141・Binary to Decimal
+- &#9744; 7258・Object Key Paths
+- &#9744; 8804・Two Sum
+- &#9744; 9155・ValidDate
+- &#9744; 9160・Assign
+- &#9744; 9384・Maximum
+- &#9744; 9775・Capitalize Nest Object Keys
+- &#9744; 13580・Replace Union
+- &#9744; 14080・FizzBuzz
+- &#9744; 14188・Run-length encoding
+- &#9744; 15260・Tree path array
+- &#9744; 19458・SnakeCase
+- &#9744; 25747・IsNegativeNumber
+- &#9744; 28143・OptionalUndefined
+
+## &#9744; extreme (14)
+
+- &#9744; 5・Get Readonly Keys
+- &#9744; 151・Query String Parser
+- &#9744; 216・Slice
+- &#9744; 274・Integers Comparator
+- &#9744; 462・Currying 2
+- &#9744; 476・Sum
+- &#9744; 517・Multiply
+- &#9744; 697・Tag
+- &#9744; 734・Inclusive Range
+- &#9744; 741・Sort
+- &#9744; 869・DistributeUnions
+- &#9744; 925・Assert Array Index
+- &#9744; 6228・JSON Parser
+- &#9744; 7561・Subtract

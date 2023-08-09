@@ -30,7 +30,13 @@
 
 /* _____________ Your Code Here _____________ */
 
-type MyOmit<T, K> = any
+type SetSubtraction<T, K extends keyof T> = {
+  [key in keyof T]: key extends K ? never : key
+}[keyof T]
+
+type MyOmit<T, K extends keyof T> = {
+  [key in SetSubtraction<T, K>]: T[key]
+}
 
 /* _____________ Test Cases _____________ */
 import type { Equal, Expect } from '@type-challenges/utils'
